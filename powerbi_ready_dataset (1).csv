@@ -1,0 +1,11 @@
+state,revenue,predicted_revenue,marketing_spend,marketing_roi,units_sold,inventory_available,inventory_turnover_proxy,unique_customers,predicted_churn_risk,decision_recommendation
+Delhi,56005960,55943706.87,5260526,14.00677932,52406,105059,0.793653494,20423,Low,Increase sales efforts and stock planning
+Gujarat,45447072,45409882.01,5341220,10.54113609,50489,98160,0.963630795,20908,Low,Maintain current strategy
+Haryana,60583756,60584429.65,5553441,14.9411443,56527,108103,0.88295999,22234,Low,Increase sales efforts and stock planning
+Karnataka,49476499,49482436.99,5522981,11.97234025,48269,103341,0.745706205,22741,Low,Increase sales efforts and stock planning
+Maharashtra,59345633,59308072.33,6003829,13.77154788,57685,115889,0.783625954,23676,Low,Maintain current strategy
+Punjab,54561116,54491133.3,5455021,12.31632733,48561,99291,0.747499812,22102,Low,Maintain current strategy
+Rajasthan,53734222,53798659.7,5575066,11.89014441,50894,108470,0.738294694,21462,Low,Increase sales efforts and stock planning
+Tamil Nadu,49223324,49198570.67,4935192,12.59711184,44488,98087,0.714935623,18617,Low,Increase sales efforts and stock planning
+Uttar Pradesh,53691752,53631435.79,5848719,11.89050608,52975,111269,0.813005682,23333,Low,Increase sales efforts and stock planning
+West Bengal,53382404,53310478.39,5381785,13.05717975,49854,101335,0.740550372,22043,Low,Maintain current strategy
